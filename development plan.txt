@@ -1,0 +1,7 @@
+research different metric for personality.
+flask
+
+web scraping ---> link ai api --> decide prompt and decide format -->result --> test -->
+
+deploy
+vercel link github
